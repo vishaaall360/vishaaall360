@@ -12,8 +12,8 @@
 
 ## 👋 Hi, I'm Vishaal S  
 
-🎓 **B.E Computer Science & Engineering (AIML)**  
-🔐 **Cyber Security | AI | IoT | Automation**  
+🎓 **B.E Computer Science & Engineering (CYBER SECURITY)**  
+🔐 ** AI | ML | IoT | Automation**  
 🚀 Passionate about building **real-world, impact-driven tech projects**
 
 ---
@@ -23,7 +23,6 @@
 - 🤖 Building **Jarvis-like AI Desktop Assistants**
 - 🔍 Exploring **Ethical Hacking & Network Security**
 - 🧪 Working on **AI-based Monitoring & Embedded Systems**
-- ✈️ Preparing for **DGCA & AFCAT**
 - 🛠️ Believe in *Projects > Certificates*
 
 ---
