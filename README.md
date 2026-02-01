@@ -76,7 +76,16 @@
 
 ### 📊 GitHub Stats  
 
-![Metrics](https://metrics.lecoq.io/vishaaall360)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/vishaaall360?style=for-the-badge&logo=github&labelColor=0f172a&color=6366f1" />
+  <img src="https://img.shields.io/github/stars/vishaaall360?style=for-the-badge&logo=github&labelColor=0f172a&color=22c55e" />
+  <img src="https://komarev.com/ghpvc/?username=vishaaall360&style=for-the-badge&color=ec4899" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6366f1/vishaaall360" />
+</p>
+
 
 ## 🌐 Connect With Me  
 
