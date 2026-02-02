@@ -1,6 +1,6 @@
 <!-- Auto Color-Changing Name-Only Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Vishaal%20S&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=VISHAAL%20S&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ================= TYPING GIF ================= -->
