@@ -73,32 +73,10 @@
 - Security rule checks  
 - Hashing & real-time feedback  
 
-### 📊 GitHub Stats  
+### 📈 Recent Activity  
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vishaaall360?style=for-the-badge&logo=github&labelColor=0f172a&color=6366f1" />
-  <img src="https://img.shields.io/github/stars/vishaaall360?style=for-the-badge&logo=github&labelColor=0f172a&color=22c55e" />
-  <img src="https://komarev.com/ghpvc/?username=vishaaall360&style=for-the-badge&color=ec4899" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6366f1/vishaaall360" />
-</p>
-
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishaaall360/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:vishaal2121s@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vishaaall360&theme=tokyo-night)
+****
 ## ⚡ Fun Fact  
 
 🧠 *I turn ideas into working prototypes — not just PPTs.*
