@@ -73,10 +73,7 @@
 - Security rule checks  
 - Hashing & real-time feedback  
 
-### 📈 Recent Activity  
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vishaaall360&theme=tokyo-night)
-****
 ## ⚡ Fun Fact  
 
 🧠 *I turn ideas into working prototypes — not just PPTs.*
