@@ -51,27 +51,68 @@
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-🔐 **Ethical Wi-Fi Network Security Assessment**  
-- Network scanning using Nmap  
-- Vulnerability identification & risk analysis  
+### 🔐 Ethical Wi-Fi Network Security Assessment
+*A cybersecurity project focused on assessing and strengthening wireless network security.*
 
-🤖 **Jarvis-Like AI Desktop Assistant**  
-- Voice commands & automation  
-- Web search, system control, file handling  
+- 🔍 Performed network discovery and host enumeration using **Nmap**
+- 🛡️ Identified open ports, services, and potential security risks
+- 📊 Conducted vulnerability assessment and risk analysis
+- 📑 Prepared security recommendations following ethical testing practices
 
-📸 **Face Recognition Attendance System**  
-- Real-time face recognition  
-- Flask + SQLite backend  
+**Tech Stack:** `Python` `Nmap` `Networking` `Cyber Security`
 
-🌡️ **AI-Based Multi-Sector Monitoring Device**  
-- Gas & temperature monitoring  
-- Raspberry Pi + sensors  
+---
 
-🔑 **Password Strength Analyzer**  
-- Security rule checks  
-- Hashing & real-time feedback  
+### 🤖 Jarvis-Like AI Desktop Assistant
+*An intelligent desktop assistant designed to automate everyday computer tasks through voice interaction.*
+
+- 🎤 Voice-controlled command execution
+- 🌐 Smart web search and information retrieval
+- 📂 File and folder management
+- 💻 System automation (launch apps, browser control, media controls)
+- ⚡ Extensible architecture for adding custom commands
+
+**Tech Stack:** `Python` `SpeechRecognition` `pyttsx3` `Automation`
+
+---
+
+### 📸 Face Recognition Attendance System
+*An AI-powered attendance management system with real-time facial recognition.*
+
+- 👤 Real-time face detection and recognition using OpenCV
+- 📝 Automatic attendance recording and management
+- 🌐 Flask-based web dashboard
+- 🗄️ SQLite database for secure data storage
+- 📊 Attendance reports and analytics
+
+**Tech Stack:** `Python` `OpenCV` `Flask` `SQLite`
+
+---
+
+### 🌡️ AI-Based Multi-Sector Monitoring Device
+*An intelligent IoT monitoring solution for real-time environmental analysis.*
+
+- 🌡️ Monitors temperature, humidity, and gas levels
+- 🍓 Raspberry Pi-based edge computing system
+- 📡 Real-time sensor data collection and processing
+- 🤖 AI-driven anomaly detection with instant alerts
+- ☁️ Designed for smart home and industrial applications
+
+**Tech Stack:** `Python` `Raspberry Pi` `IoT` `Machine Learning` `Sensors`
+
+---
+
+### 🔑 Password Strength Analyzer
+*A cybersecurity tool for evaluating password strength using modern security principles.*
+
+- 🔒 Analyzes password complexity and entropy
+- 🛡️ Detects weak patterns and common vulnerabilities
+- 🔑 Implements secure hashing techniques
+- 💡 Provides real-time security feedback and improvement suggestions
+
+**Tech Stack:** `Python` `Cyber Security` 
 
 
 ## ⚡ Fun Fact  
